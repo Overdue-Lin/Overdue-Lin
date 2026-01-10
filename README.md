@@ -7,8 +7,8 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=overdue-lin&count_private=true&show_icons=true&theme=dark" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Overdue-Lin&count_private=true&show_icons=true&theme=dark" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overdue-lin&layout=compact&langs_count=8&theme=dark" />
+    <img height="175px" src="https://stats.justsong.cn/api/github?username=Overdue-Lin" />
     <span>&emsp;&emsp;</span>
 </div>
