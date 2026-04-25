@@ -1,23 +1,42 @@
 <div align="center"><h3>Hi there :raised_hands:, I'm Overdue-Lin.</h3></div>
 
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="./pixel-text.png" />
-    <span>&emsp;&emsp;</span>
-</div>
-
 ```text
-┌────────────────────────────────────────────────────────────────────────────────┐
-│     👨‍💻 Developer | 🎵 Music Lover | 🎨 Creative Soul | 🚀 Tech Explorer      │
-│                                                                                │
-│  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  |
-│  │   💻   │   │    🎮  │  │   🎵   │   │    🎨  │  │   🚀   │   │   🌟   │  |
-│  └─────────┘  └─────────┘  └─────────┘  └─────────┘  └─────────┘  └─────────┘  |
-│                                                                                │
-│  Code. Create. Explore. Enjoy.                                                 │
-│  "Press START to begin your journey..."                                        │
-└────────────────────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                        ║
+║   ██████╗ ██╗   ██╗███████╗██████╗ ██████╗ ██╗   ██╗███████╗    ██╗     ██╗███╗   ██╗  ║
+║  ██╔═══██╗██║   ██║██╔════╝██╔══██╗██╔══██╗██║   ██║██╔════╝    ██║     ██║████╗  ██║  ║
+║  ██║   ██║██║   ██║█████╗  ██████╔╝██║  ██║██║   ██║█████╗█████╗██║     ██║██╔██╗ ██║  ║
+║  ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗██║  ██║██║   ██║██╔══╝╚════╝██║     ██║██║╚██╗██║  ║
+║  ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║██████╔╝╚██████╔╝███████╗    ███████╗██║██║ ╚████║  ║
+║   ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝    ╚══════╝╚═╝╚═╝  ╚═══╝  ║
+║                                                                                        ║
+║   IDENTITY                                                                             ║
+║   ─────────                                                                            ║
+║   🤖 AI Explorer  |  💻 Code Architect  |  🎧 Music Listener                         ║
+║                                                                                        ║
+║   MODULES                                                                              ║
+║   ─────────                                                                            ║
+║   ◼ Neural Thinking                                                                   ║
+║   ◼ Code Building                                                                     ║
+║   ◼ Coffee Intake                                                                     ║
+║                                                                                        ║
+║   SIGNAL                                                                               ║
+║   ─────────                                                                            ║
+║   Code. Create. Synthesize.                                                            ║
+║                                                                                        ║
+║   STATUS: ▓▓▓▓▓▓▓▓░░  ONLINE                                                           ║
+║                                                                                        ║
+║   >>> START SEQUENCE READY                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+
 ```
+
+## 🔥 Interests
+
+- LLM efficiency: KV Cache、Speculative Decoding、MTP ...
+- AI Agent: claude code、opencode、Agent skills、memory ...
+- Daily life: kittens, puppies and arknights
+- ......
 
 <p align="center">
   <sub>Made with ❤️ and lots of ☕ by OVERDUE-LIN</sub>
