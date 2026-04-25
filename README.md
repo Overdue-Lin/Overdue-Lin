@@ -24,6 +24,8 @@
 ║   ─────────                                                                            ║
 ║   Code. Create. Synthesize.                                                            ║
 ║                                                                                        ║
+║   Humans are prefabricated ghosts; ghosts are overdue humans.                          ║
+║                                                                                        ║
 ║   STATUS: ▓▓▓▓▓▓▓▓░░  ONLINE                                                           ║
 ║                                                                                        ║
 ║   >>> START SEQUENCE READY                                                             ║
