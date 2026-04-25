@@ -16,9 +16,9 @@
 ║                                                                                        ║
 ║   MODULES                                                                              ║
 ║   ─────────                                                                            ║
-║   > Neural Thinking                                                                   ║
-║   > Code Building                                                                     ║
-║   > Coffee Intake                                                                     ║
+║   > Neural Thinking                                                                    ║
+║   > Code Building                                                                      ║
+║   > Coffee Intake                                                                      ║
 ║                                                                                        ║
 ║   SIGNAL                                                                               ║
 ║   ─────────                                                                            ║
