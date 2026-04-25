@@ -16,9 +16,9 @@
 ║                                                                                        ║
 ║   MODULES                                                                              ║
 ║   ─────────                                                                            ║
-║   ◼ Neural Thinking                                                                   ║
-║   ◼ Code Building                                                                     ║
-║   ◼ Coffee Intake                                                                     ║
+║   > Neural Thinking                                                                   ║
+║   > Code Building                                                                     ║
+║   > Coffee Intake                                                                     ║
 ║                                                                                        ║
 ║   SIGNAL                                                                               ║
 ║   ─────────                                                                            ║
@@ -38,7 +38,7 @@
 - Daily life: kittens, puppies and arknights
 - ......
 
-### My Github Contribution
+### 🔨 My Github Contribution
 
 <div align="center">
   <picture>
