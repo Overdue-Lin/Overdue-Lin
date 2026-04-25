@@ -38,6 +38,14 @@
 - Daily life: kittens, puppies and arknights
 - ......
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Overdue-Lin/Overdue-Lin/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reverie365/Reverie-Lin/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Overdue-Lin/Overdue-Lin/refs/heads/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 <p align="center">
   <sub>Made with ❤️ and lots of ☕ by OVERDUE-LIN</sub>
 </p>
