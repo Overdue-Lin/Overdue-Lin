@@ -12,7 +12,7 @@
 ║                                                                                        ║
 ║   IDENTITY                                                                             ║
 ║   ─────────                                                                            ║
-║   🤖 AI Explorer  |  💻 Code Architect  |  🎧 Music Listener                         ║
+║   🤖 AI Explorer  |  💻 Code Architect  |  🎧 Music Listener  | ☕ Coffee Taster     ║
 ║                                                                                        ║
 ║   MODULES                                                                              ║
 ║   ─────────                                                                            ║
